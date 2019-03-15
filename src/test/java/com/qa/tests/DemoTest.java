@@ -4,7 +4,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class DemoTest {
-	
+	//Maven with git
 	@Test
 	public void sum(){
 		System.out.println("SUM");
